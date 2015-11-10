@@ -1,2 +1,2 @@
 # Build scripts
-Scripts thet automates build and test actions.
+Scripts that automates build and test actions.
