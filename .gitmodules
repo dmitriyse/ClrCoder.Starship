@@ -1,0 +1,3 @@
+[submodule "subprojects/ClrCoder"]
+	path = subprojects/ClrCoder
+	url = git@github.com:dmitriyse/ClrCoder.git
